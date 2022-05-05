@@ -1,0 +1,20 @@
+/* @font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoRegular.otf);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoBold.otf);
+    font-weight: 700;
+    font-style: normal
+}*/
+
+@font-face {
+    font-family: Osake;
+    font-weight: 700;
+    font-style: normal;
+    src: url(../font/osake.woff2) format("woff2"), url(../font/osake.woff) format("woff"), url(../font/osake.ttf) format("truetype")
+}
